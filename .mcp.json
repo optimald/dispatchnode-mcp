@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "dispatchnode": {
+      "url": "https://www.dispatchnode.com/api/mcp"
+    }
+  }
+}
